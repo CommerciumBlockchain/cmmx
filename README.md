@@ -1,14 +1,14 @@
-# cmmx
+
 
 <center>
-  <h3 align="center">CMMX</h3>
+  <h3 align="center">CommerciumX (CMMX)</h3>
   <p align="center">
     An Ethereum Classic inspired PoW mainnet for Commerce applications.
     <br />
   </p>
 </center>
 
-_Launch: X X, 20XX at ETCSummit. [CommerciumBlockchain/cmmx](https://github.com/CommerciumBlockchain/cmmx/issues/1)_
+_Launch: X X, 20XX at Unknown. [CommerciumBlockchain/cmmx](https://github.com/CommerciumBlockchain/cmmx/issues/1)_
 
 
 - Network ID: `36`
